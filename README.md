@@ -3,11 +3,9 @@
 A full-stack Employee Management CRUD application built using **Spring Boot** and **React JS**.  
 This project demonstrates backend API development, frontend integration, JDBC connectivity and full-stack communication using REST APIs.
 
----
-
+--- 
 # 🚀 Tech Stack
 
-## 🔧 Backend
 ## 🔧 Backend
 - ☕ Java 21 LTS
 - 🌱 Spring Boot
@@ -23,8 +21,6 @@ This project demonstrates backend API development, frontend integration, JDBC co
 - 🎨 CSS
 - 🔄 Axios / Fetch API
 - ⚡ Vite
-
----
 
 # 📬 API Testing
 
