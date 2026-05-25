@@ -96,8 +96,10 @@ Make sure you have installed:
 
 - Java 21 LTS
 - Maven
+- Springboot tool suite
+- MySQL
+- Postman
 - Node.js
-- npm
 
 ---
 
